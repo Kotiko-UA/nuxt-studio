@@ -45,7 +45,7 @@ export default defineNuxtConfig({
     },
   },
   ssr: true,
-  app: { baseURL: '/nuxt-studio-template/' },
+  app: { baseURL: '/nuxt-studio/' },
   routeRules: {
     '/auth/**': { ssr: false },
     '/__preview/**': { ssr: false },
