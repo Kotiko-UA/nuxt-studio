@@ -1,0 +1,18 @@
+{
+  "title": "BananaZZZ",
+  "count": "12312",
+  "image": { "src": "/images/kit-stepan.jpg", "alt": "Kit Stepan" },
+  "image_second": "/images/red_cat_2.jpg",
+  "list": [
+    {
+      "image": "/images/kit-stepan.jpg",
+      "text": "Alex — Lead Designer 111",
+      "value": 12
+    },
+    {
+      "image": "images/red_cat_2.jpg",
+      "text": "Olga — PM 111",
+      "value": 7
+    }
+  ]
+}
